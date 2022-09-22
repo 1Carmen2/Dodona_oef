@@ -1,12 +1,18 @@
 {
-    "description": {
-        "names": {
-            "en": "ISBN",
-            "nl": "ISBN"
-        }
-    },
-    "evaluation": {
-        "pythia_judge": "output"
-    },
-    "labels": []
+  "description": {
+    "names": {
+      "en": "ISBN",
+      "nl": "ISBN"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "iXRxnu4yxyaFdfBi_IRGewTivppgMS4NXXGbZICTSSffQFzrkyaEFFfj88DTKx7p",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
